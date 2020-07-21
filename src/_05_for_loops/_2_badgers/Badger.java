@@ -6,10 +6,13 @@ public static void main(String[] args) {
 	for(int age=0;age<=12;age++) {
 	System.out.print(" Badger");
 }
+	System.out.println();
 for(int Mush=0;Mush<2;Mush++) {
 	System.out.print(" Mushroom");
 }
+System.out.print(" A snake!");
+System.out.println();
+}
+}
+}
 
-}
-}
-}
